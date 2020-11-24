@@ -1,6 +1,3 @@
-# Home
-
-
 <h1> Hi! I'm Posix!</h1>
 
 <p><em>Security Researcher.</em></p>
