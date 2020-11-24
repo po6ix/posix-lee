@@ -1,1 +1,1 @@
-![x](http://p6.is/1.svg)](x)
+![x](http://p6.is/1.svg)
